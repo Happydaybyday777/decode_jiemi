@@ -1,4 +1,4 @@
-//Sun Jan 05 2025 05:56:40 GMT+0000 (Coordinated Universal Time)
+//Tue Jan 21 2025 03:10:53 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 const _0x7c5542 = new Env("多多果园");
